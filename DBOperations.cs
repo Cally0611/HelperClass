@@ -8,7 +8,7 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OrlofOeev5.HelperClasses
+namespace DBOps.HelperClasses
 {
     public class DBOperations
     {
